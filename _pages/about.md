@@ -18,4 +18,5 @@ Publications
 ======
 <strong>Dense Events Grounding in Video</strong>  
 <strong>Peijun Bao</strong>, Qian Zheng, Yadong Mu
+
 <i>Thirty-Fifth AAAI Conference on Artificial Intelligence</i> (AAAI) 2021.
