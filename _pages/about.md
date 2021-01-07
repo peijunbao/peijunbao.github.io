@@ -17,11 +17,16 @@ I received my B.S. degree in computer science at Northwestern Polytechnical Univ
 My primary research interests lie in computer vision and machine learning problems in general.
 Particularly, I am interested in video understanding, image/video grounding and causal inference.
 
-
 [[Curriculum Vitae]](https://peijunbao.github.io/files/paper1.pdf)
 <br />
 <br />
 
+News
+======
+- [12/20] One paper is accepted by AAAI 2021.
+<br />
+<br />
+<br />
 
 Publications
 ======
