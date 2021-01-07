@@ -16,7 +16,7 @@ I received my B.S. degree in computer science at Northwestern Polytechnical Univ
 
 My research interests lie in the field of computer vision and machine learning problems. Particularly, I am interested in video semantic analysis (classification, localization, grouding etc) and causal inference.
 
-Detailed CV can be found [[here]](https://peijunbao.github.io/files/paper1.pdf).
+Detailed CV can be found [[here]](https://peijunbao.github.io/files/PeijunBao_CV.pdf).
 <br />
 <br />
 
