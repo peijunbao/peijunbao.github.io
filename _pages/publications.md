@@ -1,3 +1,4 @@
+<--.
 ---
 layout: archive
 title: "Publications"
@@ -14,3 +15,11 @@ author_profile: true
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
 {% endfor %}
+<img src='./images/DepNet.jpg' width="800" height="300">
+
+<i><strong><font size="5" >A</font></strong></i>  
+<strong>B</strong>, C  
+<i>D</i>,  
+[[E]()]   
+<br/><img src='/images/.jpg' width="800" height="300">  
+<font size="4" color="gray">F</font>
