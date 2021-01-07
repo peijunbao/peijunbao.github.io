@@ -15,8 +15,8 @@ author_profile: true
 -->
 
 
-<strong><font size="5" >Dense Events Grounding in Video, </strong> <br/>
-<strong>Peijun Bao</strong>, Qian Zheng, Yadong Mu</font><br/>
+<strong><font size="5" >Dense Events Grounding in Video, </font></strong> <br/>
+<strong>Peijun Bao</strong>, Qian Zheng, Yadong Mu<br/>
 <i>Thirty-Fifth AAAI Conference on Artificial Intelligence (AAAI) 2021.</i><br/>
 [[pdf]](https://peijunbao.github.io/files/PeijunBao_AAAI21_DenseEventsGrounding.pdf) <br/>
 <img src='./images/DepNet.jpg' width="800" height="300"><br/>
