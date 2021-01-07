@@ -26,7 +26,6 @@ News
 - [12/20] One paper is accepted by AAAI 2021.
 <br />
 <br />
-<br />
 
 Publications
 ======
