@@ -18,7 +18,7 @@ Education
 
 Honors & Awards
 ======
-Merit student, Northwestern Polytechnical University 2017
-Honors scholarship, Northwestern Polytechnical University, 2016
-Exchange Student Scholarship, 2016
+* Merit student, Northwestern Polytechnical University 2017
+* Honors scholarship, Northwestern Polytechnical University, 2016
+* Exchange Student Scholarship, 2016
 
