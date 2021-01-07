@@ -14,8 +14,7 @@ Currently I am a third-year master student in [Machine Intelligence Lab](http://
 Prior to that,
 I received my B.S. degree in computer science at Northwestern Polytechnical University. I also visited [Image Process Group](https://www.gti.ssr.upm.es/) (directed by [Prof. Narciso García](https://www.gti.ssr.upm.es/narciso-garcia)) at Technical University of Madrid in Spain for 6 months, sponsored by China Scholarship Council.
 
-My primary research interests lie in computer vision and machine learning problems in general.
-Particularly, I am interested in video understanding, image/video grounding and causal inference.
+My research interests lie in the field of computer vision and machine learning problems. Particularly, I am interested in video semantic analysis(classification, localization, grouding etc) and causal inference.
 
 [[Curriculum Vitae]](https://peijunbao.github.io/files/paper1.pdf)
 <br />
