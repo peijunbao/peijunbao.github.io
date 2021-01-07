@@ -10,11 +10,11 @@ redirect_from:
 
 About Me
 ======
-Currently I am a third-year master student in Machine Intelligence Lab at Peking University, supervised by [Prof. Yadong Mu](http://www.muyadong.com/). 
+Currently I am a third-year master student in [Machine Intelligence Lab](http://www.muyadong.com/publication.html) at Peking University, supervised by [Prof. Yadong Mu](http://www.muyadong.com/). 
 Prior to that,
 I received my B.S. degree in computer science at Northwestern Polytechnical University. I also visited [Image Process Group](https://www.gti.ssr.upm.es/) (directed by [Prof. Narciso García](https://www.gti.ssr.upm.es/narciso-garcia)) at Technical University of Madrid in Spain for 6 months, sponsored by China Scholarship Council.
 
-My primary research interests lie in computer vision and machine learning problems in general
+My primary research interests lie in computer vision and machine learning problems in general.
 Particularly, I am interested in video understanding, image/video grounding and causal inference.
 
 
