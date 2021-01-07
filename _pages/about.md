@@ -14,6 +14,9 @@ I am  currently a last-year master student in Machine Intelligence Lab at Peking
 
 I received my bachelor's degree in computer science at Northwestern Polytechnical University. During my bachelor study, I visited [Image Process Group](https://www.gti.ssr.upm.es/) (directed by [Prof. Narciso García](https://www.gti.ssr.upm.es/narciso-garcia)) at Technical University of Madrid in Spain for 6 months, sponsored by China Scholarship Council.
 
+<br />
+<br />
+
 Publications
 ======
 <strong>Peijun Bao</strong>, Qian Zheng, Yadong Mu<br />
