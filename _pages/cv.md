@@ -8,6 +8,8 @@ redirect_from:
 ---
 
 {% include base_path %}
+More Detailed information can be find in the pdf version of my CV. [link](https://peijunbao.github.io/files/PeijunBao_CV.pdf).
+
 
 Education
 ======
