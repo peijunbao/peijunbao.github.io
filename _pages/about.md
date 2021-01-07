@@ -18,7 +18,8 @@ My research interests lie in the field of computer vision and machine learning p
 - Video Semantic Analysis (classification, localization, grouding etc)
 - Causal Inference in Video/Image Understanding
 
-Detailed CV can be found [[here]](https://peijunbao.github.io/files/PeijunBao_CV.pdf).
+
+My detailed CV can be found [[here]](https://peijunbao.github.io/files/PeijunBao_CV.pdf).
 <br />
 <br />
 
