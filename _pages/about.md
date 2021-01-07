@@ -14,7 +14,9 @@ Currently I am a third-year master student in [Machine Intelligence Lab](http://
 Prior to that,
 I received my B.S. degree in computer science at Northwestern Polytechnical University (NPU). During my B.S. study, I was also a research assistant in Medical Image Processing Lab at NPU, mentored by [Prof. Yong Xia](https://scholar.google.com/citations?user=Usw1jeMAAAAJ&hl=en). I visited Image Process Group (mentored by  [Prof. Narciso García](https://www.gti.ssr.upm.es/narciso-garcia) and [Dr. Carlos R. del Blanco](https://www.gti.ssr.upm.es/carlos-r-del-blanco)) at Technical University of Madrid in Spain for 6 months, sponsored by China Scholarship Council.
 
-My research interests lie in the field of computer vision and machine learning problems. Particularly, I am interested in video semantic analysis (classification, localization, grouding etc) and causal inference.
+My research interests lie in the field of computer vision and machine learning problems. Particularly, I am interested in 
+- Video Semantic Analysis (classification, localization, grouding etc)
+- Causal Inference in Video/Image Understanding
 
 Detailed CV can be found [[here]](https://peijunbao.github.io/files/PeijunBao_CV.pdf).
 <br />
