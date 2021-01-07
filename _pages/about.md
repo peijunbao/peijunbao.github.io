@@ -8,12 +8,14 @@ redirect_from:
   - /about.html
 ---
 
-
-Currently I am  a third-year master student in Machine Intelligence Lab at Peking University, supervised by [Prof. Yadong Mu](http://www.muyadong.com/). 
+About Me
+======
+Currently I am a third-year master student in Machine Intelligence Lab at Peking University, supervised by [Prof. Yadong Mu](http://www.muyadong.com/). 
 Prior to that,
-I received my B.S.'s degree in computer science at Northwestern Polytechnical University. I visited [Image Process Group](https://www.gti.ssr.upm.es/) (directed by [Prof. Narciso García](https://www.gti.ssr.upm.es/narciso-garcia)) at Technical University of Madrid in Spain for 6 months, sponsored by China Scholarship Council.
+I received my B.S. degree in computer science at Northwestern Polytechnical University. I also visited [Image Process Group](https://www.gti.ssr.upm.es/) (directed by [Prof. Narciso García](https://www.gti.ssr.upm.es/narciso-garcia)) at Technical University of Madrid in Spain for 6 months, sponsored by China Scholarship Council.
 
-My research interests are video understanding, image/video grounding and causal inference.
+My primary research interests lie in computer vision and machine learning problems in general
+Particularly, I am interested in video understanding, image/video grounding and causal inference.
 
 
 [[Curriculum Vitae]](https://peijunbao.github.io/files/paper1.pdf)
