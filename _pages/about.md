@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome to Peijun Bao's homepage!"
+title: ""
 excerpt: "About me"
 author_profile: true
 redirect_from: 
