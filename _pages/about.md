@@ -10,9 +10,9 @@ redirect_from:
 
 About Me
 ======
-Currently I am a third-year master student in [Machine Intelligence Lab](http://www.muyadong.com/publication.html) at Peking University, supervised by [Prof. Yadong Mu](http://www.muyadong.com/). 
+Currently I am a third-year master student in [Machine Intelligence Lab](http://www.muyadong.com/publication.html) at Peking University (PKU), supervised by [Prof. Yadong Mu](http://www.muyadong.com/). 
 Prior to that,
-I received my B.S. degree in computer science at Northwestern Polytechnical University (NPU). During my B.S. study, I was also a research assistant in Medical Image Processing Lab at NPU, mentored by [Prof. Yong Xia](https://scholar.google.com/citations?user=Usw1jeMAAAAJ&hl=en). I visited Image Process Group (directed  by [Prof. Narciso García](https://www.gti.ssr.upm.es/narciso-garcia) and mentored by [Dr. Carlos R. del Blanco](https://www.gti.ssr.upm.es/carlos-r-del-blanco)) at Technical University of Madrid in Spain for 6 months, sponsored by China Scholarship Council.
+I received my B.S. degree in computer science at Northwestern Polytechnical University (NPU). During my B.S. study, I was also a research assistant in Medical Image Processing Lab at NPU, mentored by [Prof. Yong Xia](https://scholar.google.com/citations?user=Usw1jeMAAAAJ&hl=en). I visited Image Process Group (mentored by  [Prof. Narciso García](https://www.gti.ssr.upm.es/narciso-garcia) and [Dr. Carlos R. del Blanco](https://www.gti.ssr.upm.es/carlos-r-del-blanco)) at Technical University of Madrid in Spain for 6 months, sponsored by China Scholarship Council.
 
 My research interests lie in the field of computer vision and machine learning problems. Particularly, I am interested in video semantic analysis (classification, localization, grouding etc) and causal inference.
 
