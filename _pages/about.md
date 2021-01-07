@@ -16,7 +16,7 @@ I received my bachelor's degree in computer science at Northwestern Polytechnica
 
 <br />
 
-[[pdf]](https://peijunbao.github.io/files/PeijunBao_AAAI21_DenseEventsGrounding.pdf)
+[[Curriculum Vitae]](https://peijunbao.github.io/files/paper1.pdf)
 
 Publications
 ======
