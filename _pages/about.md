@@ -17,7 +17,7 @@ I received my B.S. degree in computer science at Northwestern Polytechnical Univ
 My research interests lie in the field of computer vision and machine learning problems. Particularly, I am interested in 
 - Video Semantic Analysis (classification, localization, grouding etc)
 - Causal Inference in Video/Image Understanding
-
+<br />
 
 My detailed CV can be found [[here]](https://peijunbao.github.io/files/PeijunBao_CV.pdf).
 <br />
@@ -34,3 +34,7 @@ Publications ([More Details](https://peijunbao.github.io/publications/))
 <strong>Peijun Bao</strong>, Qian Zheng, Yadong Mu<br />
 <strong>Dense Events Grounding in Video, </strong> [[pdf]](https://peijunbao.github.io/files/PeijunBao_AAAI21_DenseEventsGrounding.pdf) <br />
 <i>Thirty-Fifth AAAI Conference on Artificial Intelligence (AAAI) 2021.</i>
+
+<strong>Peijun Bao</strong>, Ana I. Maqueda, Carlos R. del-Blanco and Narciso García<br />
+<strong>Tiny Hand Gesture Recognition without Localization via a Deep Convolutional Network, </strong> [[pdf]](https://ieeexplore.ieee.org/document/8103373) <br />
+<i>TIEEE Transactions on Consumer Electronics, 2018</i>
