@@ -14,7 +14,7 @@ author_profile: true
 <font size="4" color="gray">F</font>
 -->
 
-
+<br/>
 <strong><font size="5" >Dense Events Grounding in Video, </font></strong> <br/>
 <strong>Peijun Bao</strong>, Qian Zheng, Yadong Mu<br/>
 <i>Thirty-Fifth AAAI Conference on Artificial Intelligence (AAAI) 2021.</i>
