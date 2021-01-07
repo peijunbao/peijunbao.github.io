@@ -26,7 +26,7 @@ News
 <br />
 <br />
 
-Publications
+Publications ([More Details](https://peijunbao.github.io/publications/))
 ======
 <strong>Peijun Bao</strong>, Qian Zheng, Yadong Mu<br />
 <strong>Dense Events Grounding in Video, </strong> [[pdf]](https://peijunbao.github.io/files/PeijunBao_AAAI21_DenseEventsGrounding.pdf) <br />
