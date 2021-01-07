@@ -38,4 +38,4 @@ Publications ([More Details](https://peijunbao.github.io/publications/))
 
 <strong>Tiny Hand Gesture Recognition without Localization via a Deep Convolutional Network,  <br />
 <strong>Peijun Bao</strong>, Ana I. Maqueda, Carlos R. del-Blanco and Narciso García<br />
-<i>TIEEE Transactions on Consumer Electronics, 2018</i> </strong> [[pdf]](https://ieeexplore.ieee.org/document/8103373)
+<i>IEEE Transactions on Consumer Electronics, 2018</i> </strong> [[pdf]](https://ieeexplore.ieee.org/document/8103373)
