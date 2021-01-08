@@ -17,6 +17,11 @@ Education
 * Visiting Student, Technical University of Madrid, 2016.09-2017.03
 * B.S. in Comupter Science, Northwestern Polytechnical University, 2014-2018
 
+Research Interests
+======
+My research interests lie in the field of computer vision and machine learning problems. Particularly, I am interested in 
+- Video Semantic Analysis (classification, localization, grouding etc)
+- Causal Inference in Video/Image Understanding
 
 Honors & Awards
 ======
