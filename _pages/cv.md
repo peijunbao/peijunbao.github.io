@@ -19,7 +19,7 @@ Education
   <br />
   GPA: 90.6/100 Ranking 1/27
   <br />
-  textit{Selected Courses with Grade A/A+: Mathematical Analysis, Linear Algebra, Probability Theory, Ordinary Differential Equations, Numerical Methods, Signal and System, Operating System, Data Mining, etc.
+  Selected Courses with Grade A/A+: Mathematical Analysis, Linear Algebra, Probability Theory, Ordinary Differential Equations, Numerical Methods, Signal and System, Operating System, Data Mining, etc.
 
 Research Interests
 ======
@@ -35,6 +35,7 @@ Honors & Awards
 Programming Skills
 ======
 proficient in using pytorch and python
+<br />
 familiar with tensorflow, c, c++ and matlab.
 
 
