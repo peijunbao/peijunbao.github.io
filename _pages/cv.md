@@ -20,9 +20,7 @@ Education
 * M.S. in Computer Science, Peking University, 2018-present
 * B.S. in Comupter Science, Honors College, Northwestern Polytechnical University, 2014-2018
   <br />
-  GPA: 90.6/100  
-  &ensp;
-  Ranking 1/27
+  GPA: 90.6/100 &ensp; Ranking: 1/27
   <br />
   Selected Courses with Grade A/A+: Mathematical Analysis, Linear Algebra, Probability Theory, Ordinary Differential Equations, Numerical Methods, Signal and System, Operating System, Data Mining, etc.
 
