@@ -37,6 +37,7 @@ Visiting Student Sponsored by China Scholarship Council
 Supervisor: Prof. [Carlos R. del-Blanco](https://www.gti.ssr.upm.es/carlos-r-del-blanco)
 
 * Medical Image Processing Lab at Northwestern Polytechnical University, 2015.07 - 2018.06
+<br />
 Supervisor: Prof. [Yong Xia](https://scholar.google.com/citations?user=Usw1jeMAAAAJ&hl=en)
 
 Programming Skills
