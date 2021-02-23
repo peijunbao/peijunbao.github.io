@@ -26,11 +26,15 @@ Education
 
 Education
 ======
-Machine Intelligence Lab at Peking University
-<br />
-September 2018 - Present
+* Machine Intelligence Lab at Peking University,  2018.09 - Present
 <br />
 Supervisor: Prof. [Mu Yadong](http://www.muyadong.com/)
+<br />
+
+* Image Processing Group at Technical University of Madrid,  2016.09-2017.03
+* <br />
+Visiting Student Sponsored by China Scholarship Council, Supervisor: Prof. [Carlos R. del-Blanco](https://www.gti.ssr.upm.es/carlos-r-del-blanco)
+<br />
 
 
 Programming Skills
@@ -39,7 +43,6 @@ proficient in using pytorch and python
 <br />
 familiar with tensorflow, c, c++ and matlab.
 
-* Visiting Student, Technical University of Madrid, 2016.09-2017.03
 
 
 Honors & Awards
