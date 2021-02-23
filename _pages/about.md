@@ -25,7 +25,7 @@ My detailed CV can be found [[here]](https://peijunbao.github.io/files/PeijunBao
 News
 ======
 - [12/20] One paper is accepted by AAAI 2021.
-- [02/21] One paper is submited to IJCAI 2021 and  sucessfully passed the first phase of review (two
+- [02/21] One paper is submited to IJCAI 2021 (sucessfully passed the first phase of review, two
 phases totally).
 <br />
 <br />
