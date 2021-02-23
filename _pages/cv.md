@@ -24,21 +24,6 @@ Education
   <br />
   Selected Courses with Grade A/A+: Mathematical Analysis, Linear Algebra, Probability Theory, Ordinary Differential Equations, Numerical Methods, Signal and System, Operating System, Data Mining, etc.
 
-Education
-======
-* Machine Intelligence Lab at Peking University,  2018.09 - Present
-<br />
-Supervisor: Prof. [Mu Yadong](http://www.muyadong.com/)
-
-* Image Processing Group at Technical University of Madrid,  2016.09-2017.03
-<br />
-Visiting Student Sponsored by China Scholarship Council
-<br />
-Supervisor: Prof. [Carlos R. del-Blanco](https://www.gti.ssr.upm.es/carlos-r-del-blanco)
-
-* Medical Image Processing Lab at Northwestern Polytechnical University, 2015.07 - 2018.06
-<br />
-Supervisor: Prof. [Yong Xia](https://scholar.google.com/citations?user=Usw1jeMAAAAJ&hl=en)
 
 Programming Skills
 ======
