@@ -21,7 +21,7 @@ Education
 * B.S. in Comupter Science, Honors College, Northwestern Polytechnical University, 2014-2018
   <br />
   GPA: 90.6/100  
-  <br />
+  &ensp;
   Ranking 1/27
   <br />
   Selected Courses with Grade A/A+: Mathematical Analysis, Linear Algebra, Probability Theory, Ordinary Differential Equations, Numerical Methods, Signal and System, Operating System, Data Mining, etc.
