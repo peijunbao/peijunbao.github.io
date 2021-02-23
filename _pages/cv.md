@@ -16,6 +16,7 @@ Education
 * M.S. in Computer Science, Peking University, 2018-present
 * Visiting Student, Technical University of Madrid, 2016.09-2017.03
 * B.S. in Comupter Science, Northwestern Polytechnical University, 2014-2018
+  <br />
   GPA: 90.6/100 Ranking 1/27
 
 
