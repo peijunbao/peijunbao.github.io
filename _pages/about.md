@@ -29,7 +29,7 @@ News
 <br />
 <br />
 
-Publications ([More Details](https://peijunbao.github.io/publications/))
+Publications 
 ======
 <strong>Dense Events Grounding in Video</strong> <br />
 <strong>Peijun Bao</strong>, Qian Zheng, Yadong Mu<br />
