@@ -25,10 +25,7 @@ My detailed CV can be found [[here]](https://peijunbao.github.io/files/PeijunBao
 News
 ======
 - [12/20] One paper is accepted by AAAI 2021.
-- [02/21] One paper is submited to IJCAI 2021 
-<br />
-(sucessfully passed the first phase of review, two
-phases totally).
+- [02/21] One paper is submited to IJCAI 2021.
 <br />
 <br />
 
@@ -40,7 +37,10 @@ Publications ([More Details](https://peijunbao.github.io/publications/))
 
 <strong>Learning Sample Importance for Cross-Scenario Video Temporal Grounding</strong> <br />
 <strong>Peijun Bao</strong>, Yadong Mu<br />
-<i>submitted to IJCAI 2021</i>
+<i>submitted to IJCAI 2021
+(sucessfully passed the first phase of review, two
+phases totally).
+</i>
 
 <strong>Tiny Hand Gesture Recognition without Localization via a Deep Convolutional Network,</strong> <br />
 <strong>Peijun Bao</strong>, Ana I. Maqueda, Carlos R. del-Blanco and Narciso García<br />
