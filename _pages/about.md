@@ -27,7 +27,6 @@ News
 - [12/20] One paper is accepted by AAAI 2021.
 - [02/21] One paper is submited to IJCAI 2021.
 <br />
-<br />
 
 Publications ([More Details](https://peijunbao.github.io/publications/))
 ======
