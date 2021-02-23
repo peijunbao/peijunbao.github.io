@@ -29,13 +29,15 @@ Education
 * Machine Intelligence Lab at Peking University,  2018.09 - Present
 <br />
 Supervisor: Prof. [Mu Yadong](http://www.muyadong.com/)
-<br />
 
 * Image Processing Group at Technical University of Madrid,  2016.09-2017.03
-* <br />
-Visiting Student Sponsored by China Scholarship Council, Supervisor: Prof. [Carlos R. del-Blanco](https://www.gti.ssr.upm.es/carlos-r-del-blanco)
 <br />
+Visiting Student Sponsored by China Scholarship Council
+<br />
+Supervisor: Prof. [Carlos R. del-Blanco](https://www.gti.ssr.upm.es/carlos-r-del-blanco)
 
+* Medical Image Processing Lab at Northwestern Polytechnical University, 2015.07 - 2018.06
+Supervisor: Prof. [Yong Xia](https://scholar.google.com/citations?user=Usw1jeMAAAAJ&hl=en)
 
 Programming Skills
 ======
