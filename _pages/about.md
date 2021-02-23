@@ -38,7 +38,7 @@ Publications
 <strong>Learning Sample Importance for Cross-Scenario Video Temporal Grounding</strong> <br />
 <strong>Peijun Bao</strong>, Yadong Mu<br />
 <i>submitted to IJCAI 2021
-(sucessfully passed the first phase of review, two
+(successfully passed the first phase of review, two
 phases totally).
 </i>
 
