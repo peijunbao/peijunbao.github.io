@@ -28,7 +28,6 @@ author_profile: true
 phases totally).
 </i>
 <br />
-<br />
 
 
 <strong>Tiny Hand Gesture Recognition without Localization via a Deep Convolutional Network,</strong> <br />
