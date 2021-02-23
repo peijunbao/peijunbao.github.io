@@ -25,6 +25,8 @@ My detailed CV can be found [[here]](https://peijunbao.github.io/files/PeijunBao
 News
 ======
 - [12/20] One paper is accepted by AAAI 2021.
+- [02/21] One paper is submited to IJCAI 2021 and  sucessfully passed the first phase of review (two
+phases totally).
 <br />
 <br />
 
@@ -33,3 +35,11 @@ Publications ([More Details](https://peijunbao.github.io/publications/))
 <strong>Dense Events Grounding in Video</strong> <br />
 <strong>Peijun Bao</strong>, Qian Zheng, Yadong Mu<br />
 <i>Thirty-Fifth AAAI Conference on Artificial Intelligence (AAAI) 2021</i> [[pdf]](https://peijunbao.github.io/files/PeijunBao_AAAI21_DenseEventsGrounding.pdf) 
+
+<strong>Learning Sample Importance for Cross-Scenario Video Temporal Grounding</strong> <br />
+<strong>Peijun Bao</strong>, Qian Zheng, Yadong Mu<br />
+<i>submitted to IJCAI 2021</i>
+
+<strong>Tiny Hand Gesture Recognition without Localization via a Deep Convolutional Network,</strong> <br />
+<strong>Peijun Bao, Ana I. Maqueda, Carlos R. del-Blanco and Narciso García<br />
+<i>IEEE Transactions on Consumer Electronics, Volume 63, Issue 3, Pages 251-257, 2018</i> [[pdf]](https://ieeexplore.ieee.org/document/8103373)
