@@ -18,7 +18,8 @@ author_profile: true
 <strong><font size="5" >Dense Events Grounding in Video, </font></strong> <br/>
 <strong>Peijun Bao</strong>, Qian Zheng, Yadong Mu<br/>
 <i>Thirty-Fifth AAAI Conference on Artificial Intelligence (AAAI), Virtual Conference, 2021.</i>
-[[pdf]](https://peijunbao.github.io/files/PeijunBao_AAAI21_DenseEventsGrounding.pdf) <br/>
+[[pdf]](https://peijunbao.github.io/files/PeijunBao_AAAI21_DenseEventsGrounding.pdf) 
+<br/>
 
 <strong>Learning Sample Importance for Cross-Scenario Video Temporal Grounding</strong> <br />
 <strong>Peijun Bao</strong>, Yadong Mu<br />
